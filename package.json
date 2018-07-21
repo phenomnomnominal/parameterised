@@ -1,7 +1,7 @@
 {
   "name": "@phenomnomnominal/parameterised",
   "version": "0.1.0",
-  "description": "Crate parameterised tests from Markdown(ish) tables",
+  "description": "Create parameterised tests from Markdown(ish) tables",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "repository": "phenomnomnominal/parameterised",
