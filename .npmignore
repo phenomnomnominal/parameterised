@@ -1,0 +1,7 @@
+.nyc_output/
+coverage/
+.DS_Store
+.mocharc
+.travis.yml
+tsconfig.json
+tslint.json
