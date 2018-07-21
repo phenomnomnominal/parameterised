@@ -2,6 +2,9 @@
   "name": "@phenomnomnominal/parameterised",
   "version": "0.1.0",
   "description": "Create parameterised tests from Markdown(ish) tables",
+  "publishConfig": {
+    "access": "public"
+  },
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "repository": "phenomnomnominal/parameterised",
